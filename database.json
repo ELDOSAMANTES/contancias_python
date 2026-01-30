@@ -1,0 +1,1717 @@
+[
+    {
+        "matricula": "202100001",
+        "nombres": "ANA",
+        "apellidoPaterno": "SÁNCHEZ",
+        "apellidoMaterno": "SÁNCHEZ",
+        "genero": "Femenino",
+        "telefono": "5526296287",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 3,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "AJEDREZ",
+                "status": "Acreditado",
+                "pdf_path": "C:/Users/bienp/Downloads/[Tercera] Retails Nw Tercer Seguimiento.pdf"
+            },
+            {
+                "name": "conferencia",
+                "status": "Acreditado",
+                "pdf_path": "C:/Users/bienp/Downloads/CamScanner 26-11-2025 11.57.pdf"
+            },
+            {
+                "name": "CONSTANCIA FINAL",
+                "status": "Entregado",
+                "pdf_path": "c:\\Users\\bienp\\OneDrive\\Desktop\\proyectio_chuy\\Constancias_Generadas\\Constancia_202100001.pdf"
+            }
+        ],
+        "photo_path": "C:/Users/bienp/Downloads/IMG_20210607_143905884.jpg"
+    },
+    {
+        "matricula": "202100002",
+        "nombres": "PAULA",
+        "apellidoPaterno": "RAMIREZ",
+        "apellidoMaterno": "GARCIA",
+        "genero": "Masculino",
+        "telefono": "5545645438",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 3,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Acreditado",
+                "pdf_path": "C:/Users/bienp/OneDrive/Desktop/proyectio_chuy/Constancia_202100001.pdf"
+            }
+        ]
+    },
+    {
+        "matricula": "202100003",
+        "nombres": "ELENA",
+        "apellidoPaterno": "LOPEZ",
+        "apellidoMaterno": "PÉREZ",
+        "genero": "Femenino",
+        "telefono": "5512398349",
+        "career": "INGENIERÍA INDUSTRIAL",
+        "semestre": 8,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100004",
+        "nombres": "SERGIO",
+        "apellidoPaterno": "RODRIGUEZ",
+        "apellidoMaterno": "HERNANDEZ",
+        "genero": "Femenino",
+        "telefono": "5525086470",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 9,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "TEATRO",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100005",
+        "nombres": "JUAN",
+        "apellidoPaterno": "MARTINEZ",
+        "apellidoMaterno": "SÁNCHEZ",
+        "genero": "Masculino",
+        "telefono": "5557271994",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 6,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "TEATRO",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100006",
+        "nombres": "ELENA",
+        "apellidoPaterno": "HERNANDEZ",
+        "apellidoMaterno": "MARTINEZ",
+        "genero": "Masculino",
+        "telefono": "5579565420",
+        "career": "INGENIERÍA INDUSTRIAL",
+        "semestre": 1,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "FÚTBOL",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100007",
+        "nombres": "MARIA",
+        "apellidoPaterno": "PÉREZ",
+        "apellidoMaterno": "LOPEZ",
+        "genero": "Femenino",
+        "telefono": "5516131498",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 9,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100008",
+        "nombres": "ELENA",
+        "apellidoPaterno": "MARTINEZ",
+        "apellidoMaterno": "HERNANDEZ",
+        "genero": "Femenino",
+        "telefono": "5537452659",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 7,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Acreditado",
+                "pdf_path": "C:/Users/bienp/Downloads/CamScanner 26-11-2025 11.57.pdf"
+            }
+        ]
+    },
+    {
+        "matricula": "202100009",
+        "nombres": "LUIS",
+        "apellidoPaterno": "GARCIA",
+        "apellidoMaterno": "SÁNCHEZ",
+        "genero": "Femenino",
+        "telefono": "5595743744",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 1,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "MÚSICA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100010",
+        "nombres": "SERGIO",
+        "apellidoPaterno": "MARTINEZ",
+        "apellidoMaterno": "GARCIA",
+        "genero": "Femenino",
+        "telefono": "5528556097",
+        "career": "INGENIERÍA ELECTROMECÁNICA",
+        "semestre": 3,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "TEATRO",
+                "status": "Acreditado",
+                "pdf_path": "C:/Users/bienp/Downloads/comparativa1.pdf"
+            }
+        ]
+    },
+    {
+        "matricula": "202100011",
+        "nombres": "SERGIO",
+        "apellidoPaterno": "GARCIA",
+        "apellidoMaterno": "RAMIREZ",
+        "genero": "Masculino",
+        "telefono": "5579232742",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 1,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "FÚTBOL",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100012",
+        "nombres": "PAULA",
+        "apellidoPaterno": "SÁNCHEZ",
+        "apellidoMaterno": "LOPEZ",
+        "genero": "Femenino",
+        "telefono": "5533937178",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 1,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100013",
+        "nombres": "ANA",
+        "apellidoPaterno": "HERNANDEZ",
+        "apellidoMaterno": "LOPEZ",
+        "genero": "Masculino",
+        "telefono": "5532488431",
+        "career": "INGENIERÍA ELECTROMECÁNICA",
+        "semestre": 3,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "FÚTBOL",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100014",
+        "nombres": "PAULA",
+        "apellidoPaterno": "PÉREZ",
+        "apellidoMaterno": "HERNANDEZ",
+        "genero": "Femenino",
+        "telefono": "5535649780",
+        "career": "INGENIERÍA ELECTROMECÁNICA",
+        "semestre": 4,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "TEATRO",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100015",
+        "nombres": "MARIA",
+        "apellidoPaterno": "LOPEZ",
+        "apellidoMaterno": "LOPEZ",
+        "genero": "Femenino",
+        "telefono": "5577301660",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 7,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "MÚSICA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100016",
+        "nombres": "MARIA",
+        "apellidoPaterno": "PÉREZ",
+        "apellidoMaterno": "RAMIREZ",
+        "genero": "Masculino",
+        "telefono": "5568346987",
+        "career": "INGENIERÍA ELECTROMECÁNICA",
+        "semestre": 3,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "FÚTBOL",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100017",
+        "nombres": "SERGIO",
+        "apellidoPaterno": "SÁNCHEZ",
+        "apellidoMaterno": "LOPEZ",
+        "genero": "Masculino",
+        "telefono": "5533326547",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 7,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100018",
+        "nombres": "ANA",
+        "apellidoPaterno": "PÉREZ",
+        "apellidoMaterno": "HERNANDEZ",
+        "genero": "Femenino",
+        "telefono": "5541432821",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 2,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100019",
+        "nombres": "ELENA",
+        "apellidoPaterno": "HERNANDEZ",
+        "apellidoMaterno": "RAMIREZ",
+        "genero": "Masculino",
+        "telefono": "5558374862",
+        "career": "INGENIERÍA ELECTROMECÁNICA",
+        "semestre": 1,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "TEATRO",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100020",
+        "nombres": "PAULA",
+        "apellidoPaterno": "PÉREZ",
+        "apellidoMaterno": "RODRIGUEZ",
+        "genero": "Femenino",
+        "telefono": "5521290475",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 2,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "AJEDREZ",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100021",
+        "nombres": "PEDRO",
+        "apellidoPaterno": "SÁNCHEZ",
+        "apellidoMaterno": "MARTINEZ",
+        "genero": "Femenino",
+        "telefono": "5568802115",
+        "career": "INGENIERÍA ELECTROMECÁNICA",
+        "semestre": 4,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "MÚSICA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100022",
+        "nombres": "JOSE",
+        "apellidoPaterno": "HERNANDEZ",
+        "apellidoMaterno": "PÉREZ",
+        "genero": "Masculino",
+        "telefono": "5570966672",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 5,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "AJEDREZ",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100023",
+        "nombres": "JOSE",
+        "apellidoPaterno": "PÉREZ",
+        "apellidoMaterno": "MARTINEZ",
+        "genero": "Masculino",
+        "telefono": "5530390994",
+        "career": "INGENIERÍA INDUSTRIAL",
+        "semestre": 7,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100024",
+        "nombres": "LUIS",
+        "apellidoPaterno": "LOPEZ",
+        "apellidoMaterno": "HERNANDEZ",
+        "genero": "Femenino",
+        "telefono": "5518201147",
+        "career": "INGENIERÍA INDUSTRIAL",
+        "semestre": 6,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "MÚSICA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100025",
+        "nombres": "PAULA",
+        "apellidoPaterno": "GARCIA",
+        "apellidoMaterno": "PÉREZ",
+        "genero": "Masculino",
+        "telefono": "5581215690",
+        "career": "INGENIERÍA ELECTROMECÁNICA",
+        "semestre": 5,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "FÚTBOL",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100026",
+        "nombres": "CARMEN",
+        "apellidoPaterno": "LOPEZ",
+        "apellidoMaterno": "MARTINEZ",
+        "genero": "Femenino",
+        "telefono": "5586081205",
+        "career": "INGENIERÍA ELECTROMECÁNICA",
+        "semestre": 1,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100027",
+        "nombres": "PAULA",
+        "apellidoPaterno": "HERNANDEZ",
+        "apellidoMaterno": "SÁNCHEZ",
+        "genero": "Femenino",
+        "telefono": "5553385314",
+        "career": "INGENIERÍA INDUSTRIAL",
+        "semestre": 9,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "AJEDREZ",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100028",
+        "nombres": "ANA",
+        "apellidoPaterno": "HERNANDEZ",
+        "apellidoMaterno": "HERNANDEZ",
+        "genero": "Femenino",
+        "telefono": "5561107642",
+        "career": "INGENIERÍA INDUSTRIAL",
+        "semestre": 7,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "FÚTBOL",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100029",
+        "nombres": "LUIS",
+        "apellidoPaterno": "RAMIREZ",
+        "apellidoMaterno": "RAMIREZ",
+        "genero": "Masculino",
+        "telefono": "5529808187",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 6,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "MÚSICA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100030",
+        "nombres": "JUAN",
+        "apellidoPaterno": "PÉREZ",
+        "apellidoMaterno": "HERNANDEZ",
+        "genero": "Femenino",
+        "telefono": "5565922754",
+        "career": "INGENIERÍA ELECTROMECÁNICA",
+        "semestre": 9,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "MÚSICA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100031",
+        "nombres": "PEDRO",
+        "apellidoPaterno": "LOPEZ",
+        "apellidoMaterno": "LOPEZ",
+        "genero": "Masculino",
+        "telefono": "5580246327",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 6,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100032",
+        "nombres": "LUIS",
+        "apellidoPaterno": "RAMIREZ",
+        "apellidoMaterno": "HERNANDEZ",
+        "genero": "Femenino",
+        "telefono": "5539518598",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 5,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "FÚTBOL",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100033",
+        "nombres": "CARMEN",
+        "apellidoPaterno": "GARCIA",
+        "apellidoMaterno": "MARTINEZ",
+        "genero": "Masculino",
+        "telefono": "5565652839",
+        "career": "INGENIERÍA INDUSTRIAL",
+        "semestre": 3,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "FÚTBOL",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100034",
+        "nombres": "ELENA",
+        "apellidoPaterno": "HERNANDEZ",
+        "apellidoMaterno": "PÉREZ",
+        "genero": "Masculino",
+        "telefono": "5577902422",
+        "career": "INGENIERÍA ELECTROMECÁNICA",
+        "semestre": 8,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "TEATRO",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100035",
+        "nombres": "PAULA",
+        "apellidoPaterno": "GARCIA",
+        "apellidoMaterno": "GARCIA",
+        "genero": "Femenino",
+        "telefono": "5560539795",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 1,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "MÚSICA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100036",
+        "nombres": "MARIA",
+        "apellidoPaterno": "RODRIGUEZ",
+        "apellidoMaterno": "GARCIA",
+        "genero": "Masculino",
+        "telefono": "5598720117",
+        "career": "INGENIERÍA INDUSTRIAL",
+        "semestre": 3,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "TEATRO",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100037",
+        "nombres": "CARMEN",
+        "apellidoPaterno": "PÉREZ",
+        "apellidoMaterno": "LOPEZ",
+        "genero": "Femenino",
+        "telefono": "5558043317",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 3,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "TEATRO",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100038",
+        "nombres": "ELENA",
+        "apellidoPaterno": "PÉREZ",
+        "apellidoMaterno": "PÉREZ",
+        "genero": "Femenino",
+        "telefono": "5552940472",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 2,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "TEATRO",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100039",
+        "nombres": "PAULA",
+        "apellidoPaterno": "GARCIA",
+        "apellidoMaterno": "HERNANDEZ",
+        "genero": "Masculino",
+        "telefono": "5596455328",
+        "career": "INGENIERÍA INDUSTRIAL",
+        "semestre": 6,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "TEATRO",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100040",
+        "nombres": "MARIA",
+        "apellidoPaterno": "RODRIGUEZ",
+        "apellidoMaterno": "RODRIGUEZ",
+        "genero": "Femenino",
+        "telefono": "5528885617",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 9,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100041",
+        "nombres": "MARIA",
+        "apellidoPaterno": "LOPEZ",
+        "apellidoMaterno": "SÁNCHEZ",
+        "genero": "Masculino",
+        "telefono": "5545166370",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 2,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "AJEDREZ",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100042",
+        "nombres": "JOSE",
+        "apellidoPaterno": "RODRIGUEZ",
+        "apellidoMaterno": "RODRIGUEZ",
+        "genero": "Masculino",
+        "telefono": "5528527708",
+        "career": "INGENIERÍA INDUSTRIAL",
+        "semestre": 4,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "FÚTBOL",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100043",
+        "nombres": "JUAN",
+        "apellidoPaterno": "SÁNCHEZ",
+        "apellidoMaterno": "HERNANDEZ",
+        "genero": "Femenino",
+        "telefono": "5573881919",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 5,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "MÚSICA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100044",
+        "nombres": "CARMEN",
+        "apellidoPaterno": "RODRIGUEZ",
+        "apellidoMaterno": "LOPEZ",
+        "genero": "Femenino",
+        "telefono": "5536295666",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 1,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "TEATRO",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100045",
+        "nombres": "JOSE",
+        "apellidoPaterno": "PÉREZ",
+        "apellidoMaterno": "RAMIREZ",
+        "genero": "Femenino",
+        "telefono": "5518609936",
+        "career": "INGENIERÍA INDUSTRIAL",
+        "semestre": 8,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "FÚTBOL",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100046",
+        "nombres": "CARMEN",
+        "apellidoPaterno": "GARCIA",
+        "apellidoMaterno": "GARCIA",
+        "genero": "Femenino",
+        "telefono": "5513117702",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 2,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "FÚTBOL",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100047",
+        "nombres": "ELENA",
+        "apellidoPaterno": "HERNANDEZ",
+        "apellidoMaterno": "MARTINEZ",
+        "genero": "Masculino",
+        "telefono": "5598380939",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 6,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "MÚSICA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100048",
+        "nombres": "PEDRO",
+        "apellidoPaterno": "RODRIGUEZ",
+        "apellidoMaterno": "LOPEZ",
+        "genero": "Femenino",
+        "telefono": "5516025442",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 3,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "MÚSICA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100049",
+        "nombres": "PAULA",
+        "apellidoPaterno": "SÁNCHEZ",
+        "apellidoMaterno": "MARTINEZ",
+        "genero": "Masculino",
+        "telefono": "5589632467",
+        "career": "INGENIERÍA INDUSTRIAL",
+        "semestre": 5,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "MÚSICA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100050",
+        "nombres": "LUIS",
+        "apellidoPaterno": "MARTINEZ",
+        "apellidoMaterno": "MARTINEZ",
+        "genero": "Masculino",
+        "telefono": "5544440405",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 2,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "MÚSICA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100051",
+        "nombres": "MARIA",
+        "apellidoPaterno": "HERNANDEZ",
+        "apellidoMaterno": "PÉREZ",
+        "genero": "Femenino",
+        "telefono": "5579652453",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 3,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100052",
+        "nombres": "PAULA",
+        "apellidoPaterno": "GARCIA",
+        "apellidoMaterno": "SÁNCHEZ",
+        "genero": "Masculino",
+        "telefono": "5541737653",
+        "career": "INGENIERÍA INDUSTRIAL",
+        "semestre": 3,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "MÚSICA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100053",
+        "nombres": "PAULA",
+        "apellidoPaterno": "GARCIA",
+        "apellidoMaterno": "RODRIGUEZ",
+        "genero": "Femenino",
+        "telefono": "5592725253",
+        "career": "INGENIERÍA ELECTROMECÁNICA",
+        "semestre": 2,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "FÚTBOL",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100054",
+        "nombres": "MARIA",
+        "apellidoPaterno": "HERNANDEZ",
+        "apellidoMaterno": "PÉREZ",
+        "genero": "Femenino",
+        "telefono": "5565028332",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 9,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100055",
+        "nombres": "LUIS",
+        "apellidoPaterno": "RODRIGUEZ",
+        "apellidoMaterno": "RAMIREZ",
+        "genero": "Masculino",
+        "telefono": "5581228534",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 1,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "MÚSICA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100056",
+        "nombres": "PAULA",
+        "apellidoPaterno": "SÁNCHEZ",
+        "apellidoMaterno": "SÁNCHEZ",
+        "genero": "Femenino",
+        "telefono": "5546398400",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 9,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "MÚSICA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100057",
+        "nombres": "MARIA",
+        "apellidoPaterno": "MARTINEZ",
+        "apellidoMaterno": "PÉREZ",
+        "genero": "Femenino",
+        "telefono": "5556588383",
+        "career": "INGENIERÍA INDUSTRIAL",
+        "semestre": 6,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100058",
+        "nombres": "MARIA",
+        "apellidoPaterno": "RODRIGUEZ",
+        "apellidoMaterno": "MARTINEZ",
+        "genero": "Masculino",
+        "telefono": "5598699778",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 2,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "TEATRO",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100059",
+        "nombres": "MARIA",
+        "apellidoPaterno": "SÁNCHEZ",
+        "apellidoMaterno": "RODRIGUEZ",
+        "genero": "Femenino",
+        "telefono": "5541593527",
+        "career": "INGENIERÍA ELECTROMECÁNICA",
+        "semestre": 8,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100060",
+        "nombres": "CARMEN",
+        "apellidoPaterno": "SÁNCHEZ",
+        "apellidoMaterno": "HERNANDEZ",
+        "genero": "Femenino",
+        "telefono": "5567967169",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 6,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "TEATRO",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100061",
+        "nombres": "SERGIO",
+        "apellidoPaterno": "PÉREZ",
+        "apellidoMaterno": "HERNANDEZ",
+        "genero": "Femenino",
+        "telefono": "5574467549",
+        "career": "INGENIERÍA ELECTROMECÁNICA",
+        "semestre": 9,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100062",
+        "nombres": "LUIS",
+        "apellidoPaterno": "LOPEZ",
+        "apellidoMaterno": "GARCIA",
+        "genero": "Masculino",
+        "telefono": "5591427764",
+        "career": "INGENIERÍA INDUSTRIAL",
+        "semestre": 7,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100063",
+        "nombres": "JUAN",
+        "apellidoPaterno": "RAMIREZ",
+        "apellidoMaterno": "RODRIGUEZ",
+        "genero": "Masculino",
+        "telefono": "5541807687",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 3,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "TEATRO",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100064",
+        "nombres": "PAULA",
+        "apellidoPaterno": "MARTINEZ",
+        "apellidoMaterno": "SÁNCHEZ",
+        "genero": "Masculino",
+        "telefono": "5551135520",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 4,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "AJEDREZ",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100065",
+        "nombres": "PAULA",
+        "apellidoPaterno": "RODRIGUEZ",
+        "apellidoMaterno": "GARCIA",
+        "genero": "Masculino",
+        "telefono": "5523233988",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 1,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "FÚTBOL",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100066",
+        "nombres": "CARMEN",
+        "apellidoPaterno": "RAMIREZ",
+        "apellidoMaterno": "LOPEZ",
+        "genero": "Femenino",
+        "telefono": "5546786979",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 5,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "MÚSICA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100067",
+        "nombres": "JUAN",
+        "apellidoPaterno": "PÉREZ",
+        "apellidoMaterno": "RAMIREZ",
+        "genero": "Masculino",
+        "telefono": "5557484733",
+        "career": "INGENIERÍA INDUSTRIAL",
+        "semestre": 6,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "AJEDREZ",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100068",
+        "nombres": "JUAN",
+        "apellidoPaterno": "GARCIA",
+        "apellidoMaterno": "LOPEZ",
+        "genero": "Femenino",
+        "telefono": "5531186036",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 8,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "AJEDREZ",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100069",
+        "nombres": "ELENA",
+        "apellidoPaterno": "RODRIGUEZ",
+        "apellidoMaterno": "RAMIREZ",
+        "genero": "Masculino",
+        "telefono": "5535228555",
+        "career": "INGENIERÍA INDUSTRIAL",
+        "semestre": 8,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "AJEDREZ",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100070",
+        "nombres": "ANA",
+        "apellidoPaterno": "LOPEZ",
+        "apellidoMaterno": "GARCIA",
+        "genero": "Femenino",
+        "telefono": "5511111143",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 2,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100071",
+        "nombres": "PEDRO",
+        "apellidoPaterno": "MARTINEZ",
+        "apellidoMaterno": "RODRIGUEZ",
+        "genero": "Masculino",
+        "telefono": "5553707233",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 9,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "AJEDREZ",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100072",
+        "nombres": "ANA",
+        "apellidoPaterno": "LOPEZ",
+        "apellidoMaterno": "RODRIGUEZ",
+        "genero": "Femenino",
+        "telefono": "5518185768",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 3,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "FÚTBOL",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100073",
+        "nombres": "ELENA",
+        "apellidoPaterno": "GARCIA",
+        "apellidoMaterno": "HERNANDEZ",
+        "genero": "Femenino",
+        "telefono": "5528144886",
+        "career": "INGENIERÍA ELECTROMECÁNICA",
+        "semestre": 7,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "AJEDREZ",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100074",
+        "nombres": "ELENA",
+        "apellidoPaterno": "GARCIA",
+        "apellidoMaterno": "LOPEZ",
+        "genero": "Femenino",
+        "telefono": "5597220216",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 9,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100075",
+        "nombres": "SERGIO",
+        "apellidoPaterno": "MARTINEZ",
+        "apellidoMaterno": "HERNANDEZ",
+        "genero": "Femenino",
+        "telefono": "5571086842",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 4,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "AJEDREZ",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100076",
+        "nombres": "ELENA",
+        "apellidoPaterno": "LOPEZ",
+        "apellidoMaterno": "SÁNCHEZ",
+        "genero": "Femenino",
+        "telefono": "5583434078",
+        "career": "INGENIERÍA ELECTROMECÁNICA",
+        "semestre": 5,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "FÚTBOL",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100077",
+        "nombres": "ANA",
+        "apellidoPaterno": "RAMIREZ",
+        "apellidoMaterno": "PÉREZ",
+        "genero": "Masculino",
+        "telefono": "5594724146",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 4,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100078",
+        "nombres": "ANA",
+        "apellidoPaterno": "MARTINEZ",
+        "apellidoMaterno": "MARTINEZ",
+        "genero": "Femenino",
+        "telefono": "5549738005",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 8,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "AJEDREZ",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100079",
+        "nombres": "MARIA",
+        "apellidoPaterno": "SÁNCHEZ",
+        "apellidoMaterno": "LOPEZ",
+        "genero": "Masculino",
+        "telefono": "5566758179",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 3,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "AJEDREZ",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100080",
+        "nombres": "PEDRO",
+        "apellidoPaterno": "SÁNCHEZ",
+        "apellidoMaterno": "RODRIGUEZ",
+        "genero": "Masculino",
+        "telefono": "5572776011",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 9,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100081",
+        "nombres": "ANA",
+        "apellidoPaterno": "PÉREZ",
+        "apellidoMaterno": "MARTINEZ",
+        "genero": "Masculino",
+        "telefono": "5549527503",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 8,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "MÚSICA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100082",
+        "nombres": "LUIS",
+        "apellidoPaterno": "HERNANDEZ",
+        "apellidoMaterno": "RAMIREZ",
+        "genero": "Masculino",
+        "telefono": "5558200589",
+        "career": "INGENIERÍA ELECTROMECÁNICA",
+        "semestre": 3,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "TEATRO",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100083",
+        "nombres": "JUAN",
+        "apellidoPaterno": "LOPEZ",
+        "apellidoMaterno": "MARTINEZ",
+        "genero": "Femenino",
+        "telefono": "5589328773",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 9,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "FÚTBOL",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100084",
+        "nombres": "MARIA",
+        "apellidoPaterno": "LOPEZ",
+        "apellidoMaterno": "HERNANDEZ",
+        "genero": "Femenino",
+        "telefono": "5591369973",
+        "career": "INGENIERÍA ELECTROMECÁNICA",
+        "semestre": 3,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100085",
+        "nombres": "PEDRO",
+        "apellidoPaterno": "HERNANDEZ",
+        "apellidoMaterno": "MARTINEZ",
+        "genero": "Masculino",
+        "telefono": "5532781340",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 5,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "MÚSICA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100086",
+        "nombres": "ELENA",
+        "apellidoPaterno": "MARTINEZ",
+        "apellidoMaterno": "GARCIA",
+        "genero": "Femenino",
+        "telefono": "5517075291",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 6,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "AJEDREZ",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100087",
+        "nombres": "MARIA",
+        "apellidoPaterno": "RAMIREZ",
+        "apellidoMaterno": "PÉREZ",
+        "genero": "Masculino",
+        "telefono": "5573609041",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 4,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "FÚTBOL",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100088",
+        "nombres": "PAULA",
+        "apellidoPaterno": "HERNANDEZ",
+        "apellidoMaterno": "GARCIA",
+        "genero": "Masculino",
+        "telefono": "5599621045",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 6,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "AJEDREZ",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100089",
+        "nombres": "LUIS",
+        "apellidoPaterno": "HERNANDEZ",
+        "apellidoMaterno": "RODRIGUEZ",
+        "genero": "Masculino",
+        "telefono": "5586000566",
+        "career": "INGENIERÍA INDUSTRIAL",
+        "semestre": 2,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "TEATRO",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100090",
+        "nombres": "LUIS",
+        "apellidoPaterno": "RODRIGUEZ",
+        "apellidoMaterno": "SÁNCHEZ",
+        "genero": "Masculino",
+        "telefono": "5521368532",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 1,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "FÚTBOL",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100091",
+        "nombres": "JUAN",
+        "apellidoPaterno": "RAMIREZ",
+        "apellidoMaterno": "GARCIA",
+        "genero": "Femenino",
+        "telefono": "5570625860",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 1,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "TEATRO",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100092",
+        "nombres": "PEDRO",
+        "apellidoPaterno": "PÉREZ",
+        "apellidoMaterno": "PÉREZ",
+        "genero": "Masculino",
+        "telefono": "5598437444",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 3,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "TEATRO",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100093",
+        "nombres": "CARMEN",
+        "apellidoPaterno": "HERNANDEZ",
+        "apellidoMaterno": "LOPEZ",
+        "genero": "Femenino",
+        "telefono": "5591535411",
+        "career": "INGENIERÍA INDUSTRIAL",
+        "semestre": 9,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "MÚSICA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100094",
+        "nombres": "MARIA",
+        "apellidoPaterno": "PÉREZ",
+        "apellidoMaterno": "SÁNCHEZ",
+        "genero": "Masculino",
+        "telefono": "5530376154",
+        "career": "INGENIERÍA INDUSTRIAL",
+        "semestre": 8,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "AJEDREZ",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100095",
+        "nombres": "LUIS",
+        "apellidoPaterno": "RODRIGUEZ",
+        "apellidoMaterno": "RODRIGUEZ",
+        "genero": "Masculino",
+        "telefono": "5592104017",
+        "career": "LIC. ADMINISTRACIÓN",
+        "semestre": 9,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "DANZA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100096",
+        "nombres": "JOSE",
+        "apellidoPaterno": "LOPEZ",
+        "apellidoMaterno": "SÁNCHEZ",
+        "genero": "Masculino",
+        "telefono": "5591541822",
+        "career": "INGENIERÍA ELECTROMECÁNICA",
+        "semestre": 9,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "MÚSICA",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100097",
+        "nombres": "CARMEN",
+        "apellidoPaterno": "SÁNCHEZ",
+        "apellidoMaterno": "MARTINEZ",
+        "genero": "Masculino",
+        "telefono": "5513621073",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 3,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "AJEDREZ",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100098",
+        "nombres": "ELENA",
+        "apellidoPaterno": "GARCIA",
+        "apellidoMaterno": "MARTINEZ",
+        "genero": "Femenino",
+        "telefono": "5581621090",
+        "career": "INGENIERÍA INDUSTRIAL",
+        "semestre": 5,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "FÚTBOL",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100099",
+        "nombres": "PEDRO",
+        "apellidoPaterno": "HERNANDEZ",
+        "apellidoMaterno": "SÁNCHEZ",
+        "genero": "Masculino",
+        "telefono": "5596746555",
+        "career": "INGENIERÍA ELECTROMECÁNICA",
+        "semestre": 8,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "FÚTBOL",
+                "status": "Cursando"
+            }
+        ]
+    },
+    {
+        "matricula": "202100100",
+        "nombres": "LUIS",
+        "apellidoPaterno": "HERNANDEZ",
+        "apellidoMaterno": "MARTINEZ",
+        "genero": "Masculino",
+        "telefono": "5545416934",
+        "career": "INGENIERÍA SISTEMAS",
+        "semestre": 6,
+        "schoolCycle": "2026-1",
+        "workshops": [
+            {
+                "name": "FÚTBOL",
+                "status": "Cursando"
+            }
+        ]
+    }
+]

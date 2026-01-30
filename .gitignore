@@ -1,0 +1,7 @@
+build/
+dist/
+*.exe
+*.pkg
+__pycache__/
+Constancias_Generadas/
+Evidencias_Creditos/
